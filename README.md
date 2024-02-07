@@ -21,7 +21,7 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/bmi-prediction.git
+git clone https://github.com/IrijahBen/bmi-prediction.git
 Navigate to the project directory:
 
 bash
