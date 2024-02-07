@@ -47,7 +47,7 @@ pip install numpy pandas scikit-learn
 Acknowledgments
 This project wouldn't be possible without the incredible support and resources provided by the Kaggle community. Special thanks to Kaggle for hosting the Playground Series (Season 4, Episode 2) competition.
 
-Feel free to connect with me on Kaggle: Your Kaggle Profile
+Feel free to connect with me on Kaggle: https://www.kaggle.com/me
 
 Happy coding and predicting BMI! 🚀💪
 
